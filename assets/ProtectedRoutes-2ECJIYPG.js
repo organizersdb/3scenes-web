@@ -1,0 +1,1 @@
+import{r,A as a,j as t,O as o,N as i}from"./index-C_7R6W4c.js";const u=()=>{const{isInitializing:e,authUser:s}=r.useContext(a);return e||!s?t.jsx(t.Fragment,{}):s.id?t.jsx(o,{}):t.jsx(i,{to:"/"})};export{u as default};
